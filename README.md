@@ -31,5 +31,7 @@ bun dev
 
 I have currently deployed it over vercel.com. Check out my portfolio by visiting the link below
 
+ - https://mintraven.vercel.app/
+
 <p align="center">Copyright &copy; 2024 <a href="https://github.com/mintRaven-05" target="_blank">Debjeet Banerjee</a>
 <p align="center"><a href="https://github.com/mintRaven-05/mintRaven-portfolio/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=Apache-2.0&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a></p>
