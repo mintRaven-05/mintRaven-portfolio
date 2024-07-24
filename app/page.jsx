@@ -29,13 +29,13 @@ const stats= [
   },
   {
     num: 200,
-    text: "GitHub Commits"
+    text: "GitHub Commits",
   },
   {
     num: 230,
     text: "GitHub Contributions",
   },
-]
+];
 
 const Social = ({ContainerStyles, iconStyles}) => {
   return( 
@@ -62,7 +62,7 @@ const Stats = () => {
                   duration = {5} 
                   delay = {2} 
                   className="text-4xl xl:text-6xl font-extrabold" 
-                  suffix={`${item.text === "GitHub Commits" || item.text === "Techs Mastered" || item.text === "GitHub Contributions" ? "+" : "" }`}
+                  suffix={`${item.text === "GitHub Commits" ? "+" : "" || item.text === "Techs Mastered" ? "+" : "" || item.text === "GitHub Contributions" ? "+" : "" }`}
 
                   />
                   <p className={`${
