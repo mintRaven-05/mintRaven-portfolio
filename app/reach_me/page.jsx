@@ -118,7 +118,7 @@ const skills = {
             course: <span className="text-[20px]">B.E/B.Tech CSE (Core)</span>,
             cgpa: <span>CGPA: <span className="text-accent">9.26</span></span>,
             logo: <GoDot className="text-[30px] text-accent"></GoDot>,
-            unv:<span className="text-white/55">University of Engineering & Management, Kolkata</span>
+            unv:<span className="text-white/55">UEM, Kolkata</span>
         },
         {
             sem: "2nd Semister",
@@ -126,7 +126,7 @@ const skills = {
             course: <span className="text-[20px]">B.E/B.Tech CSE (Core)</span>,
             cgpa: <span>CGPA: <span className="text-accent">9.13</span></span>,
             logo: <GoDot className="text-[30px] text-accent"></GoDot>,
-            unv:<span className="text-white/55">University of Engineering & Management, Kolkata</span>
+            unv:<span className="text-white/55">UEM, Kolkata</span>
         },
     ]
 };
