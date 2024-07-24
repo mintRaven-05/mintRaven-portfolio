@@ -20,7 +20,7 @@ const socials = [
 
 const stats= [
   {
-    num: 04,
+    num: 4,
     text: "Projects Done",
   },
   {
