@@ -25,15 +25,15 @@ const stats= [
   },
   {
     num: 10,
-    text: "Techs mastered",
+    text: "Techs Mastered",
   },
   {
     num: 200,
-    text: "Github Commits"
+    text: "GitHub Commits"
   },
   {
     num: 230,
-    text: "Github Contributions",
+    text: "GitHub Contributions",
   },
 ]
 
@@ -62,7 +62,7 @@ const Stats = () => {
                   duration = {5} 
                   delay = {2} 
                   className="text-4xl xl:text-6xl font-extrabold" 
-                  suffix={`${item.text === "Github Commits" || item.text === "Years of Exp." || item.text === "Techs mastered" ? "+" : ""}`}
+                  suffix={`${item.text === "GitHub Commits" || item.text === "Techs Mastered" || item.text === "GitHub Contributions" ? "+" : "" }`}
 
                   />
                   <p className={`${
