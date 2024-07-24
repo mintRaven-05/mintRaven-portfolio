@@ -20,11 +20,7 @@ const socials = [
 
 const stats= [
   {
-    num: 2,
-    text: "Years of Exp.",
-  },
-  {
-    num: 4,
+    num: 04,
     text: "Projects Done",
   },
   {
@@ -34,7 +30,11 @@ const stats= [
   {
     num: 200,
     text: "Github Commits"
-  }
+  },
+  {
+    num: 230,
+    text: "Github Contributions",
+  },
 ]
 
 const Social = ({ContainerStyles, iconStyles}) => {
