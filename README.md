@@ -5,8 +5,9 @@
   </p>
   
 
-This is my Portfolio Website, designed using next.js and few things from scratch. If you like my template, feel free to copy it under the terms and conditions of the License. you can fork it or clone it as per your choice. If you do so, deploy it over your localhost using the following commands
-
+This is my Portfolio Website, designed using next.js and few things from scratch. If you like my template, feel free to copy it under the terms and conditions of the License. you can fork it or clone it as per your choice. If you do so, deploy it over your localhost.
+<br>
+Install next using npm or yarn or pnpm or bun and then run the following commands.
 ```bash
 npm run dev
 ```
