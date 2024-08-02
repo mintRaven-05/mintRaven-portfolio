@@ -301,7 +301,7 @@ const reach_me = () => {
                     return (
                       <li
                         key={index}
-                        className="bg-[#232329] h-[425px] px-7 py-3 rounded-xl"
+                        className="bg-[#232329] sm:h-[525px] md:h-[425px] lg:h-[425px] xl:h-[425px] px-7 py-3 rounded-xl"
                       >
                         {item.title}
                         <br />
