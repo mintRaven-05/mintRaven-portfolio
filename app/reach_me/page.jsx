@@ -219,7 +219,7 @@ const contact = {
     {
       fieldName: <GiMailbox className="text-[20px]" />,
       fieldValue: (
-        <span className="text-[15px]">debjeetbanerjee48@gmail.com</span>
+        <span className="text-[15px]">debjeet.banerjee2023@uem.edu.in</span>
       ),
     },
     {
