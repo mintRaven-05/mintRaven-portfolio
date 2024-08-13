@@ -24,12 +24,7 @@ const projects = [
         description: "CLI tool which uses gemini API to interact with the user and provide text based responses. Primarily designed for linux, and works the best with the same",
         href: "https://github.com/mintRaven-05/Geminux",
     },
-    {
-        num: "4",
-        title: "Portfolio website",
-        description: "A portfolio website dedicated for showcasing my skills and achievements. Built using Next.js. You can copy my templete as per your preferences",
-        href: "https://github.com/mintRaven-05/mintRaven-portfolio",
-    },
+
 ];
 
 
