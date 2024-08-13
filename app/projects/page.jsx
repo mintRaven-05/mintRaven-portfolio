@@ -21,8 +21,14 @@ const projects = [
     {
         num: "3",
         title: "Geminux",
-        description: "CLI tool which uses gemini API to interact with the user and provide text based responses. Primarily designed for linux, and works the best with the same",
+        description: "CLI tool which uses gemini API to interact with the user and provide text based responses. Primarily designed for linux, and works the best with the same.",
         href: "https://github.com/mintRaven-05/Geminux",
+    },
+    {
+        num: "4",
+        title: "MinTorrent",
+        description: "A CLI based torrent client for linux based systems. Get the basic features like downloading from a torrent file and magnets along with a new feature of searching magnets.",
+        href: "https://github.com/mintRaven-05/MinTorrent",
     },
 
 ];
