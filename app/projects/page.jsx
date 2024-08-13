@@ -27,7 +27,7 @@ const projects = [
     {
         num: "4",
         title: "MinTorrent",
-        description: "A CLI based torrent client for linux based systems. Get the basic features like downloading from a torrent file and magnets along with a new feature of searching magnets.",
+        description: "A CLI based torrent client for linux based systems with basic features like downloading from a torrent file and magnets along with a new feature of searching magnets.",
         href: "https://github.com/mintRaven-05/MinTorrent",
     },
 
