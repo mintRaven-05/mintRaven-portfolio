@@ -32,7 +32,7 @@ const stats= [
     text: "GitHub Commits",
   },
   {
-    num: 230,
+    num: 300,
     text: "GitHub Contributions",
   },
 ];
