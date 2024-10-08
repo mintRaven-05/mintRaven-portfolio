@@ -37,7 +37,7 @@ import { motion } from "framer-motion";
 const skills = {
   title: "About Me",
   description:
-    "10+ skills mastered with lots of experience and more to go. Wishing myself luck in this endless journey of learning.",
+    "15+ skills mastered with lots of experience and more to go. Wishing myself luck in this endless journey of learning.",
   skillset: [
     {
       icon: <TbCircleLetterC />,
