@@ -14,9 +14,9 @@ const projects = [
     },
     {
         num: "2",
-        title: "Toralizer",
-        description: "This tool reroutes your connections through the Tor network, masking your IP address. Any tool relying on socket connections—now operate with enhanced anonymity.",
-        href: "https://github.com/mintRaven-05/Toralizer",
+        title: "AgriShield",
+        description: "SIH 2024 - Cultivating Resilience: Disease Management for a Changing World. An initiative for farmers to classify livestock and crops disease and educate them.",
+        href: "https://github.com/mintRaven-05/AgriShield",
     },
     {
         num: "3",
