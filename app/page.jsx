@@ -133,8 +133,8 @@ const Home = () => {
           
           <ReactTyped
               strings={[
-                "^1000embedded systems enthusiast,^500",
-                "AI/ML enthusiast,^500",
+                "AI/ML developer,^500",
+                "^1000embedded systems developer,^500",
                 "and of course a tech geek.^3000",
               ]}
 
