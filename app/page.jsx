@@ -28,11 +28,11 @@ const stats= [
     text: "Techs Mastered",
   },
   {
-    num: 700,
+    num: 999,
     text: "GitHub Commits",
   },
   {
-    num: 900,
+    num: 999,
     text: "GitHub Contributions",
   },
 ];
