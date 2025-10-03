@@ -14,15 +14,15 @@ const projects = [
     },
     {
         num: "2",
-        title: "AgriShield",
-        description: "SIH 2024 - Cultivating Resilience: Disease Management for a Changing World. An initiative for farmers to classify livestock and crops disease and educate them.",
-        href: "https://github.com/mintRaven-05/AgriShield",
+        title: "ESPionage",
+        description: "An advanced ESP8266 and ESP32 firmware analysis toolkit. It can parse & disassemble firmware bins with a custom parser. Built for security researchers and LLDs.",
+        href: "https://github.com/serene-brew/ESPionage",
     },
     {
         num: "3",
-        title: "Geminux",
-        description: "CLI tool which uses gemini API to interact with the user and provide text based responses. Primarily designed for linux, and works the best with the same.",
-        href: "https://github.com/mintRaven-05/Geminux",
+        title: "Kaizen",
+        description: "Kaizen brings your favorite anime directly to the Linux terminal. As streaming websites face bans, it provides a resilient, TUI experience. Also, no ads :D",
+        href: "https://github.com/serene-brew/kaizen",
     },
     {
         num: "4",
