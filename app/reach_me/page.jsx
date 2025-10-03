@@ -109,7 +109,7 @@ const skills = {
       sem: "1st Semester",
       period: (
         <span className="text-accent font-extralight text-[14px]">
-          July, 2023
+          December, 2023
         </span>
       ),
       course: <span className="text-[20px]">B.E/B.Tech CSE (Core)</span>,
@@ -125,13 +125,45 @@ const skills = {
       sem: "2nd Semester",
       period: (
         <span className="text-accent font-extralight text-[14px]">
-          March, 2024
+          July, 2024
         </span>
       ),
       course: <span className="text-[20px]">B.E/B.Tech CSE (Core)</span>,
       cgpa: (
         <span>
           CGPA: <span className="text-accent">9.13</span>
+        </span>
+      ),
+      logo: <GoDot className="text-[30px] text-accent"></GoDot>,
+      unv: <span className="text-white/55">UEM, Kolkata</span>,
+    },
+    {
+      sem: "3rd Semester",
+      period: (
+        <span className="text-accent font-extralight text-[14px]">
+          December, 2024
+        </span>
+      ),
+      course: <span className="text-[20px]">B.E/B.Tech CSE (Core)</span>,
+      cgpa: (
+        <span>
+          CGPA: <span className="text-accent">9.33</span>
+        </span>
+      ),
+      logo: <GoDot className="text-[30px] text-accent"></GoDot>,
+      unv: <span className="text-white/55">UEM, Kolkata</span>,
+    },
+    {
+      sem: "4th Semester",
+      period: (
+        <span className="text-accent font-extralight text-[14px]">
+          July, 2025
+        </span>
+      ),
+      course: <span className="text-[20px]">B.E/B.Tech CSE (Core)</span>,
+      cgpa: (
+        <span>
+          CGPA: <span className="text-accent">9.28</span>
         </span>
       ),
       logo: <GoDot className="text-[30px] text-accent"></GoDot>,
@@ -180,6 +212,27 @@ const skills = {
           and
           <span className="text-accent font-extrabold"> Kartik Sau sir</span>.
           Their support has been instrumental in our journey.
+        </p>
+      ),
+    },
+    {
+      title: (
+        <span className="text-accent font-bold text-[20px]">Rank Card For Distinguished Academic Performance</span>
+      ),
+      date: (
+        <span className="text-accent font-extralight text-[14px]">
+          August, 17, 2024 & September 25, 2025
+        </span>
+      ),
+      logo: <GoDot className="text-[30px] text-accent"></GoDot>,
+      applicant: <span className="text-white/55"> UEM, Kolkata </span>,
+      info: (
+        <p className="font-semibold text-white/75">
+        Recognized for consistent academic excellence by securing top ranks within the highly competitive Computer Science and Engineering department for two consecutive years. 
+        This distinction highlights a strong aptitude and sustained high performance in a rigorous academic environment.<br /><br /> 
+              <span className="text-accent font-extrabold"> &nbsp;◉ 1st Year: Rank 15</span> <br />
+              <span className="text-accent font-extrabold"> &nbsp;◉ 2nd Year: Rank 14</span> <br />
+              
         </p>
       ),
     },
