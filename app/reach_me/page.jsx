@@ -277,7 +277,7 @@ const contact = {
     },
     {
       fieldName: <SiLinkedin className="text-[20px]" />,
-      fieldValue: <span className="text-[15px]">in/~debjeetbanerjee</span>,
+      fieldValue: <span className="text-[15px]">in/debjeetbanerjee48</span>,
     },
     {
       fieldName: <BsDiscord className="text-[20px]" />,
