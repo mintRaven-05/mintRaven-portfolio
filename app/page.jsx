@@ -13,7 +13,7 @@ import CountUp from "react-countup";
 
 const socials = [
   { icon: <FaGithub />, path: "https://github.com/mintRaven-05"},
-  { icon: <FaLinkedin />, path: "https://www.linkedin.com/in/~debjeetbanerjee/"},
+  { icon: <FaLinkedin />, path: "https://www.linkedin.com/in/debjeetbanerjee48/"},
   { icon: <FaXTwitter />, path: "https://x.com/mintRaven_05"},
   {icon: <MdAttachEmail />, path: "mailto:debjeet.banerjee2023@uem.edu.in"},
 ];
